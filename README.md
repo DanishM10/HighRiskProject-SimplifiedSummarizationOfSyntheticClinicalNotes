@@ -30,10 +30,13 @@ This project uses OpenAI's GPT models (zero-shot, few-shot, chain-of-thought, an
 - Save the results to final_gpt_summarization_results.csv
 
 5. Output:
+
 The script generates a CSV file (final_gpt_summarization_results.csv) containing:
 - Original clinical notes
 - Summarized notes for each prompting strategy.
 
 6. Notes:
+
 This project uses synthetic data.
+
 API key security: Do not hardcode your API key. It is securely entered during runtime.
