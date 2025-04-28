@@ -34,6 +34,6 @@ The script generates a CSV file (final_gpt_summarization_results.csv) containing
 - Original clinical notes
 - Summarized notes for each prompting strategy.
 
-6. Notes
+6. Notes:
 This project uses synthetic data.
 API key security: Do not hardcode your API key. It is securely entered during runtime.
