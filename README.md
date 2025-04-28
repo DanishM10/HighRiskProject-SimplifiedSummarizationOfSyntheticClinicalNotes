@@ -1,0 +1,2 @@
+# HighRiskProject-SimplifiedSummarizationOfSyntheticClinicalNotes
+Using GPT for Simplified Summarization of Synthetic Clinical Notes
