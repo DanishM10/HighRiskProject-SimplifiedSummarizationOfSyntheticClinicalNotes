@@ -1,0 +1,198 @@
+Note,Zero-shot Summary,Few-shot Summary,Chain-of-Thought Summary,Tree-of-Thought Summary
+Patient diagnosed with Seizure disorder (disorder). Observation shows Glucose [Mass/volume] in Serum or Plasma at 92.8 mg/dL. Started treatment with Naproxen sodium 220 MG Oral Tablet.,The patient has a seizure disorder. Their blood sugar level is 92.8 mg/dL. They have been prescribed Naproxen sodium 220 MG tablets for treatment.,The patient has a seizure disorder. Blood sugar level is at 92.8 mg/dL. Starting treatment with a naproxen sodium tablet.,"Let's break down the clinical note step by step:
+
+1. **Diagnosis:** The patient has been diagnosed with a seizure disorder.
+
+2. **Observation:** The glucose level in the patient's blood (serum or plasma) is 92.8 mg/dL. This indicates the amount of glucose circulating in the blood at the time of the test.
+
+3. **Treatment:** The patient has been started on Naproxen sodium 220 MG oral tablets. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to relieve pain and inflammation.
+
+In summary, the patient with a seizure disorder has a blood glucose level of 92.8 mg/dL and has started treatment with Naproxen sodium tablets. It's important to monitor the patient's response to the treatment and follow up with any further recommendations from the healthcare provider.","1. Possible Interpretations:
+   a. The patient has a known seizure disorder and the blood glucose level is within normal range. They have been prescribed Naproxen sodium for a separate condition.
+   b. The patient has a seizure disorder and their blood glucose level is slightly elevated at 92.8 mg/dL. They have been prescribed Naproxen sodium for another issue.
+   c. The patient has a seizure disorder, and their blood glucose level is normal. They have been started on Naproxen sodium for their condition.
+
+2. Possible Summaries:
+   a. Patient has a seizure disorder, normal blood glucose level, and is taking Naproxen sodium for another issue.
+   b. Patient with seizure disorder has slightly elevated blood glucose level and is on Naproxen sodium for a different condition.
+   c. Patient diagnosed with seizure disorder has normal blood glucose level and is starting Naproxen sodium treatment.
+
+3. Best Summary:
+   The best summary for patient understanding would be: ""Patient diagnosed with seizure disorder has a normal blood glucose level and has started treatment with Naproxen sodium."" This summary provides the essential information about the patient's condition, blood glucose level, and current treatment plan in a clear and concise manner."
+Patient diagnosed with Housing unsatisfactory (finding). Observation shows Hemoglobin A1c/Hemoglobin.total in Blood at 6.0 %. Started treatment with Naproxen sodium 220 MG Oral Tablet.,The patient has been diagnosed with unsatisfactory housing conditions. Their blood test showed a Hemoglobin A1c level of 6.0%. They have been prescribed Naproxen sodium 220mg tablets for treatment.,Simplified: 'Patient has unstable housing. Blood test shows Hemoglobin A1c level at 6.0%. Started taking Naproxen sodium tablets.',"Let's break down the clinical note step by step:
+
+1. **Diagnosis**: The patient has been diagnosed with ""Housing unsatisfactory (finding)."" This likely indicates that the patient's living conditions are not adequate or suitable for their health and well-being.
+
+2. **Observation**: The observation shows that the Hemoglobin A1c/Hemoglobin total in the blood is at 6.0%. Hemoglobin A1c is a marker used to monitor blood sugar levels over time, with 6.0% indicating good blood sugar control for most people.
+
+3. **Treatment**: The patient has been started on Naproxen sodium 220 MG Oral Tablet. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to relieve pain, inflammation, and swelling.
+
+In summary, the clinical note suggests that the patient's living conditions are not satisfactory, their blood sugar control is good, and they have been prescribed Naproxen for treatment, likely for pain relief or inflammation.","1. Possible interpretations:
+   a. The patient has been diagnosed with unsatisfactory housing conditions, which may be impacting their health.
+   b. The patient has a Hemoglobin A1c level of 6.0%, indicating good blood sugar control.
+   c. The patient has been prescribed Naproxen sodium 220 MG Oral Tablet for a specific condition.
+
+2. Possible summaries:
+   a. The patient's living situation is not ideal and may be affecting their health.
+   b. The patient's blood sugar control is good with a Hemoglobin A1c level of 6.0%.
+   c. The patient has been given Naproxen sodium 220 MG Oral Tablet for treatment.
+
+3. The best summary for patient understanding would depend on the context and the patient's current concerns. If the patient is more focused on their housing situation, summarizing the unsatisfactory housing condition may be most relevant. However, if the patient is more interested in their health status, summarizing the good blood sugar control may be more appropriate. Ultimately, the best summary should address the patient's main concerns and help them understand the key points of the clinical note."
+Patient diagnosed with Chronic sinusitis (disorder). Observation shows Hemoglobin A1c/Hemoglobin.total in Blood at 6.4 %. Started treatment with Naproxen sodium 220 MG Oral Tablet.,The patient has a condition called chronic sinusitis. Some tests showed a level of Hemoglobin A1c in the blood at 6.4%. The doctor prescribed Naproxen sodium tablets to help with the treatment.,The patient has a long-term sinus infection. Blood test shows high sugar levels at 6.4%. Treatment started with Naproxen for pain relief.,"Let's break down the clinical note step by step:
+
+1. **Diagnosis:** The patient has been diagnosed with Chronic sinusitis, which is a long-term inflammation of the sinuses.
+
+2. **Observation:** The Hemoglobin A1c/Hemoglobin.total in the blood is at 6.4%. Hemoglobin A1c is a measure of average blood sugar levels over the past 2-3 months. A level of 6.4% indicates that the patient's blood sugar control is not optimal and may suggest diabetes or prediabetes.
+
+3. **Treatment:** The patient has been started on Naproxen sodium 220 MG Oral Tablet. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) that can help reduce inflammation and pain. In this case, it may be prescribed to help manage symptoms of sinusitis such as pain and inflammation.
+
+In summary, the clinical note indicates that the patient has chronic sinusitis, possibly with underlying issues related to blood sugar control, and is being treated with Naproxen for symptom management. It's important for the patient to follow up with their healthcare provider for further evaluation and management of both conditions.","1. Possible interpretations:
+- The patient has been diagnosed with chronic sinusitis and has a Hemoglobin A1c level of 6.4% in the blood. They have been prescribed Naproxen sodium 220 MG Oral Tablet.
+- The patient has chronic sinusitis and also has a slightly elevated Hemoglobin A1c level of 6.4% in the blood. They have been prescribed Naproxen sodium 220 MG Oral Tablet.
+- The patient is being treated for chronic sinusitis with Naproxen sodium 220 MG Oral Tablet, and their Hemoglobin A1c level is 6.4% in the blood.
+
+2. Possible summaries:
+a. The patient has chronic sinusitis and a Hemoglobin A1c level of 6.4%. They are taking Naproxen sodium 220 MG Oral Tablet for treatment.
+b. Chronic sinusitis diagnosed. Hemoglobin A1c at 6.4%. Treatment initiated with Naproxen sodium 220 MG Oral Tablet.
+c. Diagnosis of chronic sinusitis. Hemoglobin A1c level is 6.4%. Started on Naproxen sodium 220 MG Oral Tablet.
+
+3. Best summary based on patient understanding:
+The best summary for patient understanding would be: ""Chronic sinusitis diagnosed. Hemoglobin A1c at 6.4%. Treatment initiated with Naproxen sodium 220 MG Oral Tablet."" This summary provides a clear and concise overview of the diagnosis, relevant lab result, and the prescribed medication for the patient's condition."
+Patient diagnosed with Received higher education (finding). Observation shows Hemoglobin A1c/Hemoglobin.total in Blood at 6.3 %. Started treatment with Vitamin B12 5 MG/ML Injectable Solution.,The patient has a higher level of education. Blood tests showed a Hemoglobin A1c level of 6.3%. They have been prescribed Vitamin B12 injections as part of their treatment.,The patient has completed higher education. Tests show a Hemoglobin A1c level of 6.3%. Treatment has begun with Vitamin B12 injections.,"Let's break down the clinical note step by step:
+
+1. **Patient diagnosed with Received higher education (finding):** This part of the note seems to indicate that the patient has a higher level of education. This finding might be relevant for understanding the patient's health literacy and ability to comprehend medical information.
+
+2. **Observation shows Hemoglobin A1c/Hemoglobin.total in Blood at 6.3%:** Hemoglobin A1c (HbA1c) is a measure of average blood sugar levels over the past 2-3 months. An HbA1c level of 6.3% indicates good blood sugar control. This suggests that the patient's diabetes management is relatively stable.
+
+3. **Started treatment with Vitamin B12 5 MG/ML Injectable Solution:** The patient has been prescribed Vitamin B12 in the form of an injectable solution. Vitamin B12 is essential for nerve function, red blood cell production, and DNA synthesis. Injectable B12 is often used to treat or prevent B12 deficiency, which can occur in conditions like pernicious anemia or malabsorption issues.
+
+In summary, the patient with good blood sugar control and a higher level of education has been started on Vitamin B12 injectable solution, likely to address a deficiency or support overall health.","1. Possible Interpretations:
+   a. The patient has received a higher education level.
+   b. The patient's Hemoglobin A1c level in the blood is 6.3%.
+   c. The patient has started treatment with Vitamin B12 Injectable Solution.
+
+2. Possible Summaries:
+   a. The patient has a higher education background.
+   b. The patient's Hemoglobin A1c level is 6.3%.
+   c. The patient has initiated treatment with Vitamin B12 Injectable Solution.
+
+3. Best Summary: The patient has started treatment with Vitamin B12 Injectable Solution."
+Patient diagnosed with Received higher education (finding). Observation shows Body Height at 172.0 cm. Started treatment with Hydrochlorothiazide 25 MG Oral Tablet.,"The patient has been diagnosed with high blood pressure. They are tall, measuring 172 centimeters in height. They have started taking a medication called Hydrochlorothiazide to help lower their blood pressure.",The patient has completed higher education. Their height is 172.0 cm. They are taking a medication called Hydrochlorothiazide 25 MG by mouth.,"Let's break down the clinical note step by step:
+
+1. ""Patient diagnosed with Received higher education (finding)"": This part of the note seems to be a mistake or typo. It appears to be an error in the documentation and does not provide relevant medical information.
+
+2. ""Observation shows Body Height at 172.0 cm"": This part indicates that the patient's height was measured at 172.0 centimeters. This measurement is likely recorded for tracking the patient's growth or monitoring any changes in height over time.
+
+3. ""Started treatment with Hydrochlorothiazide 25 MG Oral Tablet"": This part indicates that the patient has been prescribed Hydrochlorothiazide, which is a medication commonly used to treat high blood pressure and edema (fluid retention). The dosage prescribed is 25 mg in the form of an oral tablet.
+
+In summary, the relevant information from this clinical note is the patient's height measurement and the initiation of treatment with Hydrochlorothiazide. The mention of ""Received higher education"" seems to be an error and can be disregarded in this context.","1. Possible interpretations:
+   a. The patient has a medical condition that required them to receive higher education.
+   b. The patient's height is recorded at 172.0 cm.
+   c. The patient has started treatment with Hydrochlorothiazide 25 MG Oral Tablet.
+
+2. Possible summaries:
+   a. The patient has a medical condition that necessitated higher education.
+   b. The patient's height is 172.0 cm.
+   c. The patient has commenced treatment with Hydrochlorothiazide 25 MG Oral Tablet.
+
+3. Best summary for patient understanding:
+   The patient's height is recorded at 172.0 cm, and they have started treatment with Hydrochlorothiazide 25 MG Oral Tablet."
+Patient diagnosed with Risk activity involvement (finding). Observation shows FEV1/FVC at 48.9 %. Started treatment with Clopidogrel 75 MG Oral Tablet.,The patient was found to have a condition related to risky activities. Tests showed a lung function ratio of 48.9%. They have been prescribed Clopidogrel 75mg tablets to help with treatment.,"Simplified: ""Patient engaged in risky activities and was found to have decreased lung function at 48.9%. Treatment started with a medication called Clopidogrel.""","Let's break down the clinical note step by step:
+
+1. Diagnosis: The patient has been diagnosed with ""Risk activity involvement (finding)."" This term typically refers to a patient's increased risk of a particular health issue due to their involvement in certain activities or behaviors. Further information may be needed to understand the specific risk involved.
+
+2. Observation: The note mentions an observation of FEV1/FVC at 48.9%. FEV1 (Forced Expiratory Volume in 1 second) and FVC (Forced Vital Capacity) are lung function tests used to assess respiratory health. A ratio of FEV1/FVC below 70% is often indicative of obstructive lung disease, such as asthma or COPD.
+
+3. Treatment: The patient has been started on Clopidogrel 75 MG Oral Tablet. Clopidogrel is an antiplatelet medication commonly used to prevent blood clots in patients at risk for heart attacks or strokes. The dosage mentioned is 75 mg, which is a standard starting dose for this medication.
+
+In summary, the clinical note indicates that the patient has an increased risk related to certain activities, has abnormal lung function test results, and has been prescribed Clopidogrel for treatment. Further evaluation and management may be needed based on the specific details of the patient's condition.","1. Possible interpretations of the note:
+   a. Patient has a diagnosis related to engaging in risky activities, and their lung function test shows a reduced FEV1/FVC ratio.
+   b. The patient has a condition related to high-risk behavior, and their lung function test indicates an obstructive pattern.
+   c. The patient is being treated with Clopidogrel for a specific condition, and their lung function test shows a decreased FEV1/FVC ratio.
+
+2. Possible summaries:
+   a. The patient has been diagnosed with a condition related to risky activities, and their lung function test indicates a potential issue with airflow limitation.
+   b. The patient's engagement in high-risk activities has led to a diagnosis, and their lung function test suggests possible obstructive lung disease.
+   c. Treatment with Clopidogrel has been initiated for the patient's specific condition, and their lung function test reveals a reduced FEV1/FVC ratio.
+
+3. Best summary based on patient understanding:
+   The patient has been diagnosed with a condition related to risky activities, and their lung function test indicates a potential issue with airflow limitation. They have started treatment with Clopidogrel for their specific condition."
+Patient diagnosed with Received higher education (finding). Observation shows Body Height at 162.2 cm. Started treatment with 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System.,The patient has been diagnosed with a condition related to higher education. Their height is 162.2 cm. They have started a treatment using a skin patch that contains ethinyl estradiol and norelgestromin.,"Simplified: ""Patient completed higher education. Height is 162.2 cm. Starting treatment with birth control patch.""","Let's break down the clinical note step by step:
+
+1. ""Patient diagnosed with Received higher education (finding)"": This part of the note seems to indicate that the patient has a higher level of education. This information is not directly related to the treatment but may be relevant for understanding the patient's background.
+
+2. ""Observation shows Body Height at 162.2 cm"": This part of the note indicates that the patient's height is measured at 162.2 cm. This measurement is important for monitoring growth and development, as well as for determining appropriate medication dosages.
+
+3. ""Started treatment with 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System"": This part of the note indicates the specific treatment regimen that has been prescribed for the patient. The patient is using a transdermal system that delivers ethinyl estradiol and norelgestromin at specific doses per hour. This type of treatment is commonly used for hormonal contraception.
+
+In summary, the clinical note provides information about the patient's education level, height measurement, and the specific transdermal hormonal contraceptive treatment they have started.","1. Possible interpretations of the note:
+   a. The patient has a medical condition that required higher education for proper management.
+   b. The patient's body height is measured at 162.2 cm.
+   c. The patient has started treatment with a transdermal system containing Ethinyl Estradiol and norelgestromin.
+
+2. Possible summaries:
+   a. The patient has a medical condition that necessitated advanced education for understanding and managing it effectively.
+   b. The patient's height is recorded as 162.2 cm.
+   c. The patient has initiated treatment using a transdermal system that includes Ethinyl Estradiol and norelgestromin.
+
+3. Best summary for patient understanding:
+   The patient has started using a transdermal system for treatment that contains Ethinyl Estradiol and norelgestromin."
+Patient diagnosed with Chronic sinusitis (disorder). Observation shows Hemoglobin A1c/Hemoglobin.total in Blood at 6.4 %. Started treatment with ferrous sulfate 325 MG Oral Tablet.,The patient has chronic sinusitis. Some blood tests were done and the results showed a Hemoglobin A1c level of 6.4%. The patient has been prescribed ferrous sulfate tablets to help with this condition.,The patient has chronic sinusitis. Blood tests show high Hemoglobin A1c at 6.4%. Treatment started with iron supplement tablets.,"Let's break down the clinical note step by step:
+
+1. **Diagnosis:** The patient has been diagnosed with Chronic sinusitis, which is a long-lasting inflammation of the sinuses.
+
+2. **Observation:** The Hemoglobin A1c/Hemoglobin.total in Blood is noted to be 6.4%. This value indicates the average blood sugar levels over the past 2-3 months. A value of 6.4% suggests that the patient's blood sugar levels are slightly elevated, indicating a risk for diabetes or prediabetes.
+
+3. **Treatment:** The patient has been started on ferrous sulfate 325 MG Oral Tablet. Ferrous sulfate is an iron supplement commonly used to treat iron deficiency anemia. It is possible that the patient may have anemia in addition to chronic sinusitis.
+
+In summary, the patient is being treated for chronic sinusitis and has slightly elevated blood sugar levels, for which monitoring and further evaluation may be needed. Additionally, the patient has been prescribed an iron supplement to address any potential iron deficiency.","1. Possible interpretations:
+- The patient has been diagnosed with chronic sinusitis.
+- The patient's Hemoglobin A1c level in the blood is 6.4%.
+- The patient has been prescribed ferrous sulfate 325 MG Oral Tablet.
+
+2. Possible summaries:
+- The patient has a long-standing condition called chronic sinusitis.
+- The patient's blood test shows a Hemoglobin A1c level of 6.4%.
+- The patient has been given a medication called ferrous sulfate 325 MG Oral Tablet.
+
+3. The best summary for patient understanding would be: ""You have chronic sinusitis, a long-standing condition affecting your sinuses. Your recent blood test showed a Hemoglobin A1c level of 6.4%, which is being monitored. You have been prescribed a medication called ferrous sulfate 325 MG Oral Tablet to help with your treatment."""
+Patient diagnosed with Received higher education (finding). Observation shows Glucose [Mass/volume] in Serum or Plasma at 66.9 mg/dL. Started treatment with insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin].,"The patient has high blood sugar levels, so they were prescribed a type of insulin called Humulin to help lower it.",Simplified: Patient found to have completed higher education. Blood test shows glucose level at 66.9 mg/dL. Treatment started with insulin injections.,"Let's break down the clinical note step by step:
+
+1. Patient diagnosed with ""Received higher education (finding)"" - This part of the note seems to indicate that the patient has a higher level of education. This finding may be relevant to the patient's overall health and management.
+
+2. Observation shows Glucose [Mass/volume] in Serum or Plasma at 66.9 mg/dL - This indicates the patient's blood glucose level is 66.9 mg/dL. A normal fasting blood glucose level is typically between 70-99 mg/dL, so this value is slightly lower than normal.
+
+3. Started treatment with insulin isophane human 70 UNT/ML / insulin regular human 30 UNT/ML Injectable Suspension [Humulin] - This part of the note indicates that the patient has been started on a combination of insulin isophane human (70 UNT/ML) and insulin regular human (30 UNT/ML) injectable suspension. This combination of insulins is commonly used to manage diabetes, particularly to control blood sugar levels.
+
+In summary, the clinical note suggests that the patient with a higher education level has a lower than normal blood glucose level of 66.9 mg/dL and has been started on a specific insulin regimen to help manage their condition, likely diabetes.","1. Possible Interpretations:
+   a. The patient has received higher education and is being treated for low blood sugar with a combination of insulin isophane and regular insulin.
+   b. The patient with a higher education background has a glucose level of 66.9 mg/dL and has started treatment with a specific insulin regimen.
+   c. The patient, who has a higher education level, is managing their low blood sugar with a prescribed insulin combination.
+
+2. Possible Summaries:
+   a. The patient with higher education is being treated for low blood sugar using a combination of insulin types.
+   b. The patient's glucose level is 66.9 mg/dL, and they have initiated treatment with insulin isophane and regular insulin.
+   c. Patient, with higher education, is managing low blood sugar with a specific insulin regimen.
+
+3. Best Summary for Patient Understanding:
+   ""You have started treatment for your low blood sugar by using a combination of insulin types, insulin isophane, and regular insulin. This is to help manage your glucose level, which is currently at 66.9 mg/dL. It's important to continue following your prescribed insulin regimen to keep your blood sugar levels stable."""
+Patient diagnosed with Medication review due (situation). Observation shows Body Height at 144.3 cm. Started treatment with sodium fluoride 0.0272 MG/MG Oral Gel.,The patient needs to review their medications. They are 144.3 cm tall. They have started using a sodium fluoride oral gel treatment.,"Simplified: ""Patient needs medication review. Height is 144.3 cm. Starting treatment with sodium fluoride oral gel.""","Let's break down the clinical note step by step:
+
+1. ""Patient diagnosed with Medication review due (situation)"": This indicates that the patient needs a review of their medications. It is important to ensure that the patient's current medications are appropriate and effective for their condition.
+
+2. ""Observation shows Body Height at 144.3 cm"": This means that the patient's height has been measured at 144.3 centimeters. Height measurements are important for tracking growth and development, especially in pediatric patients.
+
+3. ""Started treatment with sodium fluoride 0.0272 MG/MG Oral Gel"": This indicates that the patient has been prescribed sodium fluoride oral gel at a concentration of 0.0272 mg/mg. Sodium fluoride is commonly used for dental purposes, such as preventing tooth decay and strengthening tooth enamel.
+
+Overall, the clinical note suggests that the patient is due for a medication review, has a height measurement recorded, and has been started on sodium fluoride oral gel treatment. It is important for healthcare providers to monitor the patient's response to the treatment and address any concerns during the medication review.","1. Possible Interpretations:
+   a. The patient is due for a medication review, and their body height is 144.3 cm. They have started treatment with sodium fluoride 0.0272 MG/MG Oral Gel.
+   b. The patient's medication review is overdue, and their body height is 144.3 cm. They have been prescribed sodium fluoride 0.0272 MG/MG Oral Gel.
+   c. The patient is scheduled for a medication review, their body height is 144.3 cm, and they have initiated treatment with sodium fluoride 0.0272 MG/MG Oral Gel.
+
+2. Possible Summaries:
+   a. The patient needs a medication review, is 144.3 cm tall, and has started using sodium fluoride gel.
+   b. The patient is overdue for a medication review, has a height of 144.3 cm, and has been prescribed sodium fluoride gel.
+   c. The patient is scheduled for a medication review, has a height of 144.3 cm, and has begun treatment with sodium fluoride gel.
+
+3. Best Summary for Patient Understanding:
+   The patient needs a medication review, is 144.3 cm tall, and has started using sodium fluoride gel."
